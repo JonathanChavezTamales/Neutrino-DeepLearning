@@ -6,6 +6,8 @@ Neutrinos are some particles that are emmited by high energy events like superno
 
 The purpose is to design a neural network that can efficiently classify the neutrino interactions recolected by the Cherenkov radiation in some observatories around the world.
 
+**NOTE:** Some files are not updated. ViTs are not added to this repository yet.
+
 ### Final Presentation
 
 https://docs.google.com/presentation/d/1OT-5TFxtsiA70FW9trtBICqJ7KzIa-w9i4ArOQQTFBY/edit?usp=sharing
